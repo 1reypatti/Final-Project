@@ -1,0 +1,103 @@
+nav{
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    letter-spacing: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.966);
+    height: 100px;
+    text-align: center;
+    padding-top: 3%;    
+}
+a{
+    font-size:x-large;
+    padding-left: 13%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgba(140, 85, 192, 0.719);
+}
+div{
+    display: inline;
+    background-color:rgba(5, 5, 5, 0.623);
+    color: white;
+    padding: 8%;
+    margin-left: 10%;
+    font-size:x-large;
+    margin-left: 2%;
+
+}
+
+footer{
+    background-color: rgba(117, 33, 196, 0.945);
+    height: 400px;
+}
+.Logo{
+    height: 400px;
+    float: right;
+        
+}
+.Hero{
+    background-image: url("https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  .G-background{
+    height: 200px;
+    margin-top: 10%;
+    
+  }
+  .artwork1{
+    height: 200px;
+  }
+  .artwork2{
+    height: 200px;
+  }
+  label{
+    display: block;
+    color: blueviolet;
+    height: 10px;
+    padding: 10px;
+  }
+  .c-Logo{
+    height: 400px;
+    
+    float: right;
+
+  }
+  .p-qoute{
+    height: 500px;
+    margin: 1px;
+    
+  }
+  .p-qoute2{
+
+background-image: url(https://images.pexels.com/photos/6185656/pexels-photo-6185656.jpeg?auto=compress&cs=tinysrgb&w=1600);
+height: 500px;
+width: 1000px;
+margin-top: 5%;
+
+  }
+  
+  .dark{
+    height: 100px;
+    
+  }
+  h1{
+    margin:4%;
+    
+  }
+  .medium{
+    height: 100px;
+
+  }
+  
+  
+
+    
+  
+
+                    
+    
+
+
+
+
